@@ -1,0 +1,14 @@
+# NetBeans
+nbproject/private/
+
+# Build folders
+build/
+dist/
+
+# Java
+*.class
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
