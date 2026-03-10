@@ -120,6 +120,7 @@ main/CalculatorApp.java
 Puedes descargar la versión compilada aquí:
 
 👉 **[Descargar Calculadora (.jar)](dist/scientific_calculator.jar)**
+[Download Scientific Calculator](https://github.com/Diego-Jimenez1999/scientific_calculator/releases)
 
 Para ejecutarla:
 
@@ -132,3 +133,4 @@ java -jar calculadora-pro.jar
 # 🔮 Mejoras futuras
 
 * Implementación de **funciones científicas**
+
