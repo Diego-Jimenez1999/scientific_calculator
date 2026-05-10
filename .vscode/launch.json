@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CalculatorApp",
+      "request": "launch",
+      "mainClass": "main.CalculatorApp",
+      "projectName": "scientific-calculator"
+    },
+    {
+      "type": "java",
+      "name": "Ejecutar Calculadora",
+      "request": "launch",
+      "mainClass": "main.CalculatorApp",
+      "projectName": "scientific_calculator"
+    }
+  ]
+}
