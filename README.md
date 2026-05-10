@@ -26,7 +26,7 @@ https://github.com/Diego-Jimenez1999
 # 🖥️ Vista previa
 
 <p align="center">
-<img src="assets/preview.gif" width="500">
+<img src="assets/Demo.gif" width="500">
 </p>
 
 ---
@@ -104,6 +104,10 @@ Puedes abrirlo en:
 * NetBeans
 * IntelliJ IDEA
 * Eclipse
+* Visual Studio Code
+
+---
+
 
 ### 3️⃣ Ejecutar aplicación
 
