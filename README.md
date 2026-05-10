@@ -26,7 +26,7 @@ https://github.com/Diego-Jimenez1999
 # 🖥️ Vista previa
 
 <p align="center">
-<img src="assets/Demo.gif" width="500">
+<img src="assets/preview_1.gif" width="500">
 </p>
 
 ---
