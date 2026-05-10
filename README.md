@@ -134,3 +134,23 @@ java -jar calculadora-pro.jar
 
 * Implementación de **funciones científicas**
 
+---
+
+# 🔄 Actualizaciones Recientes
+
+* **v1.0.0** - Primera versión subida a GitHub
+  - Proyecto inicial con calculadora básica
+  - Interfaz MVC implementada
+  - Componentes personalizados en Swing
+  - Rama main creada para futuras actualizaciones
+
+---
+
+# 📞 Contacto
+
+Si tienes preguntas o sugerencias, puedes contactarme a través de:
+
+* **GitHub**: [Diego-Jimenez1999](https://github.com/Diego-Jimenez1999)
+
+¡Gracias por revisar mi proyecto! 🚀
+
